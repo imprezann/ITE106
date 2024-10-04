@@ -14,10 +14,10 @@ class Lamp1 {
 
 	void turnOn() {
 	isOn = true;
-	System.out println ("Light On?" + isOn);}
+	System.out.println("Light On?" + isOn);}
 
 	void turnOff () {
 	isOn = false;
-	System. out println ("Light On? " + isOn);
+	System.out.println("Light On? " + isOn);
 	}
 }
