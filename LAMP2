@@ -1,0 +1,22 @@
+class Main2 {
+public static void main (String[] args) {
+Lamp led = new Lamp;
+Lamp halogen = new Lamp;
+Led. turnOn();
+｝
+halogen. turnOff();
+
+class Lamp2 {
+public static void main(String[] args) {
+boolean isOn;
+
+void turnOn() {
+isOn = true;
+System. out printIn ("Light on? " + ison);
+
+void turnOff () {
+isOn = false;
+System. out printZn("Light on? " + ison);
+};
+}
+}
