@@ -8,7 +8,7 @@ class Lamp2 {
 		System.out.println("Light on? " + ison);
 }
 
-	void turnOff () {
+	void turnOff() {
 		isOn = false;
 		System.out.println("Light on? " + ison);
 	};
