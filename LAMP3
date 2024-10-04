@@ -4,10 +4,10 @@ class Lamp3 {
 
 	void turnOn() {
 	isOn = true;
-	System.out.println(" Lights on? " + " - " + ison + name + " turned it on. ");
+	System.out.println(" Lights on? " + " - " + ison + "." name + " turned it on. ");
 
 	void turnOff() {
 	isOn = false;
-	System.out.printin(" Lights on? " + - + ison + name + " turned it off. ");
+	System.out.println(" Lights on? " + - + ison + "." + name + " turned it off. ");
 	}
 }
