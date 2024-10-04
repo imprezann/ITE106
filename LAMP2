@@ -6,7 +6,7 @@ class Main2 {
 
 	led.turnOn();
 
-	halogen. turnOff();
+	halogen.turnOff();
 	}
 }
 
@@ -17,12 +17,12 @@ class Lamp2 {
 
 	void turnOn() {
 		isOn = true;
-		System. out printIn ("Light on? " + ison);
+		System.out.println("Light on? " + ison);
 }
 
 	void turnOff () {
 		isOn = false;
-		System. out println("Light on? " + ison);
+		System.out.println("Light on? " + ison);
 	};
 	}
 }
