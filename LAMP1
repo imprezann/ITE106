@@ -1,23 +1,23 @@
 class Main1 {
-public static void main (String [] args) (
+	public static void main (String [] args) (
 
-Lamp led = new Lamp () ;
-Lamp halogen = new Lamp () ;
+	Lamp led = new Lamp () ;
+	Lamp halogen = new Lamp () ;
 
-led.turnOn ();
-halogen.turnOff();
-}
+	led.turnOn ();
+	halogen.turnOff();
+	}
 }
 
 class Lamp1 {
-boolean isOn;
+	boolean isOn;
 
-void turnOn() {
-    isOn = true;
-System.out println ("Light On?" + isOn) ;
-}
-void turnOff () {
-isOn = false;
-System. out println ("Light On? " + isOn) ;
-}
+	void turnOn() {
+  isOn = true;
+	System.out println ("Light On?" + isOn);}
+
+	void turnOff () {
+	isOn = false;
+	System. out println ("Light On? " + isOn);
+	}
 }
