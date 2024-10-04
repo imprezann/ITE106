@@ -1,0 +1,40 @@
+class Main3 {
+public static void main (String[] args) {
+
+Lamp led = new Lamp ();
+Lamp halogen = new Lamp);
+Lamp fluorescent = new Lamp) ;
+Lamp incandescent = new Lamp ();
+
+led. name = args [0];
+halogen. name = args [2];
+fluorescent. name = args [0]
+incandescent. name = args [2];
+
+led. isOn = Boolean.parseBoolean (args [1]);
+led. turnOn ();
+
+fluorescent.is0n = Boolean.parseBoolean (args [1]);
+fluorescent.turnOn();
+
+halogen. isOn = Boolean.parseBoolean (args [3]);
+halogen. turnoff();
+
+incandescent. isOn = Boolean.parseBoolean(args [3]);
+incandescent. turnOff();
+}
+}
+
+class Lamp3 {
+boolean isOn; 
+public String name;
+
+void turnOn() {
+isOn = true;
+System. out println(" Lights on? " + " - " + ison + " + name + " turned it on. ");
+
+void turnOff() {
+isOn = false;
+System. out printin(" Lights on? " + - + ison + “.” + name +" turned it off. ");
+}
+}
