@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Student GradebookwithArrayProcessing {
+public class StudentGradebookwithArrayProcessing {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
