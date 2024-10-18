@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.Scanner;
 
-public class Student Gradebook with File 1/0 and String Processing {
+public class StudentGradebookwithStringProcessing {
 public static void main(String[] args) {
         try {
             Scanner sc = new Scanner(new File("students.txt"));
