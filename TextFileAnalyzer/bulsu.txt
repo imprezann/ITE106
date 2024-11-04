@@ -1,0 +1,26 @@
+BULACAN STATE UNIVERSITY
+
+In the realm of code where ideas ignite,
+Java stands strong, a beacon of light.
+With syntax so clear, it welcomes the new,
+A language of power, both tried and true.
+
+From servers to apps, it weaves through the night,
+With JVM magic, it takes to flight.
+Object-oriented, it builds with grace,
+Encapsulating dreams in a digital space.
+
+Through classes and methods, it forms its own way,
+Inheritance whispers, “Let’s build and play.”
+Polymorphism dances, flexibility sings,
+In this vibrant landscape, creativity springs.
+
+Threads intertwine in a multicolored stream,
+Concurrency flows like a well-crafted dream.
+With each line of code, a story unfolds,
+In the heart of Java, adventure beholds.
+
+So here’s to the language, both simple and grand,
+Uniting the world with a digital hand.
+From desktop to cloud, it carries the torch,
+In the world of programming, Java will forge.
